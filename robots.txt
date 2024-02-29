@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mayirasharif.github.io/upnow//sitemap.xml
+Sitemap: https://mayirasharif.github.io/upnow/sitemap.xml
